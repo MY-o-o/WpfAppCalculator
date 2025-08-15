@@ -9,7 +9,7 @@ A calculator application built with **WPF (Windows Presentation Foundation)**, d
 
 ### Requirements
 - Windows (10, or 11)
-- .NET 9.0 or newer
+- .NET 9.0 or newer (Download from the official [.NET website](https://dotnet.microsoft.com/en-us/download))
 
 ### How to Run
 1. Go to the [Releases](../../releases) page.
