@@ -68,6 +68,11 @@
             <Setter Property="CornerRadius" Value="25"/>
             <Setter Property="BorderThickness" Value="1"/>
             <Setter Property="BorderBrush" Value="Gray"/>
+            <Setter Property="Effect">
+                <Setter.Value>
+                    <DropShadowEffect/>
+                </Setter.Value>
+            </Setter>
         </Style>
         <Style TargetType="TextBlock" x:Key="curNumTextBlockStyle">
             <Setter Property="FontSize" Value="45"/>
